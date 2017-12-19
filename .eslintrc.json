@@ -15,7 +15,8 @@
     "react/prop-types": "off",
     "class-methods-use-this": "off",
     "import/no-named-as-default": "off",
-    "import/no-named-as-default-member": "off"
+    "import/no-named-as-default-member": "off",
+    "jsx-a11y/anchor-is-valid": "off"
   },
   "env": {
     "browser": true
